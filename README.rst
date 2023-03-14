@@ -16,7 +16,7 @@ xlrd
 .. _PyPI version: https://badge.fury.io/py/xlrd
 
 
-xlrd is a library for reading data and formatting information from Excel
+[xlrd](https://github.com/python-excel/xlrd) (also [here](https://github.com/serrasqueiro/xlrd)) is a library for reading data and formatting information from Excel
 files in the historical ``.xls`` format.
 
 .. warning::
