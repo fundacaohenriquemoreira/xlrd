@@ -1,0 +1,3 @@
+# xlrd
+Original github repo: git@github.com:python-excel/xlrd.git
+This repo: git@github.com:fundacaohenriquemoreira/xlrd.git
